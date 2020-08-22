@@ -1,4 +1,4 @@
-![Kuno Woudt](header.png)
+![Kuno Woudt](https://github.com/warpr/warpr/blob/master/header.png)
 
 <!--
 ### Hi there 👋
