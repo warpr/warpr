@@ -1,18 +1,13 @@
 ![Kuno Woudt](https://github.com/warpr/warpr/blob/master/header.png)
 
-<!--
-### Hi there 👋
+<hr />
+Hi, I'm Kuno.
 
-**warpr/warpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer from Rotterdam, now living in Guayaquil.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+contact:
+- Pronouns: he/him
+- Time Zone: [UTC -5](https://www.timeanddate.com/worldclock/ecuador/guayaquil)
+- IRC: kuno on freenode and oftc
+- Twitter: [@byld](https://twitter.com/byld)
+- Résumé: [frob.nl/cv](https://frob.nl/cv/)
