@@ -6,4 +6,4 @@ I'm a full-stack web developer from Rotterdam, now living in Guayaquil.
 
 <hr />
 
-he/him · [UTC -5](https://www.timeanddate.com/worldclock/ecuador/guayaquil) · kuno on oftc and libera.chat irc · [@byld](https://twitter.com/byld) · [résumé](https://frob.nl/cv/)
+he/him · [UTC -5](https://www.timeanddate.com/worldclock/ecuador/guayaquil) · kuno on oftc and libera.chat irc · [@byld](https://twitter.com/byld) · [@kuno@phpc.social](https://phpc.social/@kuno) · [résumé](https://frob.nl/cv/)
